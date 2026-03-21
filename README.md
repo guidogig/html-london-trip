@@ -1,7 +1,7 @@
-## WDPT14 - Esercizio 
+# WDPT14 - Esercizio 
 
-# Titolo:
+## Titolo:
 html-london-trip
 
-# Assignment:
+## Assignment:
 Riprodurre pagina solo HTML a partire da immagine esempio, utilizzando sia asset locali che online
